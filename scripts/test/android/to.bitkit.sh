@@ -1,7 +1,7 @@
 #!/bin/bash
 
 repo=https://github.com/synonymdev/bitkit.git
-tag="v$versionName"
+tag="v.$versionName"
 builtApk=$workDir/output/bitkit.apk
 
 test() {
