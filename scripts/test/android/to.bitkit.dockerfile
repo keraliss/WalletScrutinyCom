@@ -54,7 +54,7 @@ WORKDIR /app
 # Clone the repository
 RUN git clone https://github.com/synonymdev/bitkit.git .
 
-# Create .env file with all required variables
+# Create .env file with all required variables (including BACKEND_HOST and DEFAULT_BITCOIN_NETWORK)
 RUN echo "\
 # middleware for redux-logger\n\
 ENABLE_REDUX_LOGGER=true\n\
@@ -62,10 +62,12 @@ ENABLE_REDUX_IMMUTABLE_CHECK=true\n\
 ENABLE_I18NEXT_DEBUGGER=false\n\
 ENABLE_MIGRATION_DEBUG=false\n\
 ENABLE_LDK_LOGS=true\n\
+BACKEND_HOST=https://api.bitkit.to\n\
 BACKUPS_SERVER_HOST=https://blocktank.synonym.to/staging-backups-ldk\n\
 BACKUPS_SERVER_PUBKEY=02c03b8b8c1b5500b622646867d99bf91676fac0f38e2182c91a9ff0d053a21d6d\n\
 WEB_RELAY=https://webrelay.slashtags.to\n\
 BLOCKTANK_HOST=https://api1.blocktank.to/api\n\
+DEFAULT_BITCOIN_NETWORK=bitcoin\n\
 ELECTRUM_BITCOIN_HOST=35.187.18.233\n\
 ELECTRUM_BITCOIN_SSL_PORT=8900\n\
 ELECTRUM_BITCOIN_TCP_PORT=8911\n\

@@ -19,6 +19,6 @@ test() {
         --volume $workDir/output:/output \
         bitkit
 
-    docker rmi bitkit -f
-    docker image prune -f
+    # docker rmi bitkit -f
+    # docker image prune -f
 }
