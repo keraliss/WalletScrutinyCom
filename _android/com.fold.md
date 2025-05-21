@@ -10,9 +10,9 @@ appCountry: us
 released: 2019-11-12
 updated: 2025-04-22
 version: 141.2.1
-stars: 3.7
+stars: 3.8
 ratings: 987
-reviews: 1056
+reviews: 1057
 website: https://foldapp.com
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: nowallet
 appHashes: 
 date: 2021-09-15
 signer: 
-reviewArchive: 
 twitter: fold_app
 social: 
 redirect_from: 

@@ -11,7 +11,7 @@ released: 2017-03-13
 updated: 2025-05-14
 version: 4.13.12
 stars: 4.7
-reviews: 76351
+reviews: 76406
 website: https://public.com
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nosendreceive
 appHashes: 
 date: 2023-07-21
 signer: 
-reviewArchive: 
 twitter: public
 social:
 - https://www.instagram.com/publicapp

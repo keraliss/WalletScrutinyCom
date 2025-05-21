@@ -12,7 +12,7 @@ updated: 2025-04-28
 version: 13.4.0
 stars: 4.6
 ratings: 3291
-reviews: 2795
+reviews: 2797
 website: https://pdax.ph
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2021-09-03
 signer: 
-reviewArchive: 
 twitter: pdaxph
 social:
 - https://www.linkedin.com/company/pdaxph

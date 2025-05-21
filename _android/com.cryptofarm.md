@@ -12,7 +12,7 @@ updated: 2025-04-11
 version: 1.0.1506
 stars: 3.7
 ratings: 6172
-reviews: 705
+reviews: 708
 website: https://cryptotab.farm/
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: nowallet
 appHashes: 
 date: 2021-11-01
 signer: 
-reviewArchive: 
 twitter: CryptoTabnet
 social:
 - https://www.facebook.com/CryptoTabFarm

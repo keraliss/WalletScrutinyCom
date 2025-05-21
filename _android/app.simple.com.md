@@ -12,7 +12,7 @@ updated: 2025-05-09
 version: 3.8.6
 stars: 4.7
 ratings: 
-reviews: 1789
+reviews: 1792
 website: https://simple.app/
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2023-06-13
 signer: 
-reviewArchive: 
 twitter: smpl_app
 social:
 - https://t.me/smpl_app

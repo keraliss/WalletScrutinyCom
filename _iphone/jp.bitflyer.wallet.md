@@ -11,7 +11,7 @@ released: 2016-11-18
 updated: 2025-05-15
 version: 7.50.0
 stars: 4.4
-reviews: 128232
+reviews: 128252
 website: https://bitflyer.com/
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2021-08-27
 signer: 
-reviewArchive: 
 twitter: bitFlyer
 social:
 - https://www.facebook.com/bitflyer

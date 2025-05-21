@@ -10,7 +10,7 @@ released: 2020-08-10
 updated: 2025-05-14
 version: '216.0'
 stars: 4.8
-reviews: 22340
+reviews: 22375
 website: https://strike.me/en/
 repository: 
 issue: 
@@ -21,7 +21,6 @@ verdict: nobtc
 appHashes: 
 date: 2021-01-18
 signer: 
-reviewArchive: 
 twitter: ln_strike
 social: 
 features:

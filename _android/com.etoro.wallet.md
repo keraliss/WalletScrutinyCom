@@ -13,7 +13,7 @@ updated: 2025-04-03
 version: 88.0.0
 stars: 3.9
 ratings: 1122
-reviews: 147
+reviews: 148
 website: https://www.etoro.com/crypto/wallet
 repository: 
 issue: 
@@ -24,7 +24,6 @@ verdict: custodial
 appHashes: 
 date: 2021-04-21
 signer: 
-reviewArchive: 
 twitter: etoro
 social:
 - https://www.linkedin.com/company/etoro

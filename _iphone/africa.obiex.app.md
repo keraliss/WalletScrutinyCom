@@ -11,7 +11,7 @@ released: 2021-06-18
 updated: 2025-05-13
 version: 3.8.5
 stars: 4.6
-reviews: 601
+reviews: 602
 website: 
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2022-08-01
 signer: 
-reviewArchive: 
 twitter: obiexfinance
 social:
 - https://www.facebook.com/obiexfinance

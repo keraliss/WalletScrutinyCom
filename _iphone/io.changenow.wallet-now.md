@@ -11,7 +11,7 @@ released: 2021-10-23
 updated: 2025-05-11
 version: 3.15.2
 stars: 4.5
-reviews: 697
+reviews: 698
 website: https://walletnow.app
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nosource
 appHashes: 
 date: 2023-04-08
 signer: 
-reviewArchive: 
 twitter: NOW_Wallet
 social:
 - https://www.facebook.com/ChangeNOW.io/

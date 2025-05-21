@@ -11,7 +11,7 @@ released: 2011-08-12
 updated: 2025-05-08
 version: '9.23'
 stars: 4.5
-reviews: 9734
+reviews: 9733
 website: http://www.interactivebrokers.com
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nowallet
 appHashes: 
 date: 2021-10-10
 signer: 
-reviewArchive: 
 twitter: ibkr
 social:
 - https://www.linkedin.com/company/interactive-brokers

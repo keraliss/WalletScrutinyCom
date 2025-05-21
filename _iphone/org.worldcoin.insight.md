@@ -11,7 +11,7 @@ released: 2022-06-25
 updated: 2025-05-14
 version: 2.8.8300
 stars: 4.7
-reviews: 1855
+reviews: 1870
 website: https://worldcoin.org
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nobtc
 appHashes: 
 date: 2024-08-30
 signer: 
-reviewArchive: 
 twitter: worldcoin
 social:
 - https://www.linkedin.com/company/worldcoinproject

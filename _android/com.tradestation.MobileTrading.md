@@ -12,7 +12,7 @@ updated: 2025-05-12
 version: 8.5.0
 stars: 4.6
 ratings: 4823
-reviews: 2032
+reviews: 2033
 website: http://tradestation.com/contact-us/
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2021-10-10
 signer: 
-reviewArchive: 
 twitter: tradestation
 social:
 - https://www.facebook.com/TradeStation

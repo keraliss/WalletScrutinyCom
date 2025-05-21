@@ -11,7 +11,7 @@ released: 2018-08-06
 updated: 2025-05-10
 version: 12.8.0
 stars: 4.6
-reviews: 11794
+reviews: 11800
 website: https://lobstr.co/
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nobtc
 appHashes: 
 date: 2021-08-27
 signer: 
-reviewArchive: 
 twitter: Lobstrco
 social: 
 features: 

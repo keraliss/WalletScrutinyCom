@@ -12,7 +12,7 @@ updated: 2025-05-08
 version: 2.1.11
 stars: 1.9
 ratings: 377
-reviews: 197
+reviews: 196
 website: https://ecos.am
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2021-10-07
 signer: 
-reviewArchive: 
 twitter: ecosmining
 social:
 - https://www.facebook.com/ecosdefi

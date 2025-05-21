@@ -8,8 +8,8 @@ appId: com.bitrefill.bitrefill
 appCountry: 
 idd: 1378102623
 released: 2018-06-05
-updated: 2025-05-11
-version: 4.1.0
+updated: 2025-05-19
+version: 4.1.1
 stars: 4.7
 reviews: 305
 website: https://www.bitrefill.com
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: []
 date: 2021-09-12
 signer: 
-reviewArchive: 
 twitter: bitrefill
 social:
 - https://www.facebook.com/bitrefill

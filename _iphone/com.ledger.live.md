@@ -11,7 +11,7 @@ released: 2019-01-28
 updated: 2025-05-07
 version: '3.77'
 stars: 4.9
-reviews: 12364
+reviews: 12386
 website: https://www.ledger.com/ledger-live
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nowallet
 appHashes: 
 date: 2023-12-15
 signer: 
-reviewArchive: 
 twitter: Ledger
 social:
 - https://www.ledger.com/ledger-live

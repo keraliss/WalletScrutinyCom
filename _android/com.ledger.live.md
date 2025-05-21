@@ -11,7 +11,7 @@ updated: 2025-05-06
 version: 3.77.0
 stars: 4.6
 ratings: 6090
-reviews: 2892
+reviews: 2897
 website: https://www.ledger.com
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nowallet
 appHashes: 
 date: 2020-11-17
 signer: 
-reviewArchive: 
 twitter: Ledger
 social:
 - https://www.linkedin.com/company/ledgerhq

@@ -13,7 +13,7 @@ updated: 2025-05-07
 version: 7.45.2
 stars: 4.5
 ratings: 57131
-reviews: 6004
+reviews: 6012
 website: https://support.metamask.io/
 repository: https://github.com/MetaMask/metamask-mobile
 issue: 
@@ -24,7 +24,6 @@ verdict: nobtc
 appHashes: 
 date: 2024-07-24
 signer: 
-reviewArchive: 
 twitter: MetaMask
 social:
 - https://discord.com/invite/consensys

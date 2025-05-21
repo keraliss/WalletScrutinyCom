@@ -11,7 +11,7 @@ released: 2021-10-10
 updated: 2025-04-17
 version: 5.5.48
 stars: 4.9
-reviews: 12
+reviews: 13
 website: https://phemex.com/
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2024-10-07
 signer: 
-reviewArchive: 
 twitter: 
 social:
 - https://phemex.com.tr

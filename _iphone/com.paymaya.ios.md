@@ -11,7 +11,7 @@ released: 2015-09-29
 updated: 2025-05-02
 version: 2.104.0
 stars: 4.7
-reviews: 217838
+reviews: 217904
 website: https://www.maya.ph/
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2024-09-02
 signer: 
-reviewArchive: 
 twitter: mayaofficialph
 social:
 - https://www.youtube.com/c/mayaiseverything

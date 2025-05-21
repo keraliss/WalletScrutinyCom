@@ -11,7 +11,7 @@ released: 2022-01-30
 updated: 2025-05-12
 version: 25.16.0
 stars: 4.8
-reviews: 22565
+reviews: 23086
 website: https://phantom.com
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nosource
 appHashes: 
 date: 2023-12-21
 signer: 
-reviewArchive: 
 twitter: phantom
 social:
 - https://www.reddit.com/r/phantom/

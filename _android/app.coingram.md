@@ -12,7 +12,7 @@ updated: 2025-04-22
 version: '4.6'
 stars: 4.8
 ratings: 43980
-reviews: 1245
+reviews: 1249
 website: https://www.coingraam.com/
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: nowallet
 appHashes: 
 date: 2025-04-22
 signer: 
-reviewArchive: 
 twitter: 
 social: 
 redirect_from: 

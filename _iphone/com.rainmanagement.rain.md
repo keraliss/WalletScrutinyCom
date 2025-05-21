@@ -11,7 +11,7 @@ released: 2018-09-02
 updated: 2025-05-14
 version: 3.7.8
 stars: 4.7
-reviews: 2792
+reviews: 2793
 website: https://www.rain.bh/
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2021-10-01
 signer: 
-reviewArchive: 
 twitter: rainfinancial
 social:
 - https://www.linkedin.com/company/rainfinancial

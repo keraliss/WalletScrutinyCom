@@ -11,7 +11,7 @@ released: 2020-07-08
 updated: 2025-05-12
 version: 2.3.2
 stars: 4.9
-reviews: 3925
+reviews: 3931
 website: https://www.coinglass.com
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: fake
 appHashes: 
 date: 2021-11-02
 signer: 
-reviewArchive: 
 twitter: coinglass_com
 social: 
 features: 

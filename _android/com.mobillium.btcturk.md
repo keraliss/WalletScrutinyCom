@@ -12,7 +12,7 @@ updated: 2025-03-28
 version: 2.0.1
 stars: 4.3
 ratings: 14766
-reviews: 5099
+reviews: 5098
 website: https://www.btcturk.com
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2021-10-10
 signer: 
-reviewArchive: 
 twitter: btcturk
 social:
 - https://www.linkedin.com/company/btcturk

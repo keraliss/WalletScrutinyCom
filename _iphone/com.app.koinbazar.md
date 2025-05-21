@@ -11,7 +11,7 @@ released: 2021-06-02
 updated: 2025-04-10
 version: 4.1.12
 stars: 3
-reviews: 128
+reviews: 129
 website: https://www.koinbx.com/
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2021-10-26
 signer: 
-reviewArchive: 
 twitter: koinbazar
 social:
 - https://www.linkedin.com/company/koinbazar

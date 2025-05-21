@@ -12,7 +12,7 @@ updated: 2025-05-13
 version: 2.100.3
 stars: 4.7
 ratings: 619117
-reviews: 15058
+reviews: 15062
 website: https://www.binance.com/
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2020-03-15
 signer: 
-reviewArchive: 
 twitter: binance
 social:
 - https://www.facebook.com/binance

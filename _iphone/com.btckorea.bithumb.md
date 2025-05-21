@@ -11,7 +11,7 @@ released: 2017-12-05
 updated: 2025-05-12
 version: 2.7.8
 stars: 2
-reviews: 3752
+reviews: 3756
 website: https://en.bithumb.com
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2024-10-07
 signer: 
-reviewArchive: 
 twitter: BithumbOfficial
 social:
 - https://www.facebook.com/bithumb

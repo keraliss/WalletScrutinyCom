@@ -12,7 +12,7 @@ updated: 2025-04-11
 version: 3.0.61
 stars: 3.7
 ratings: 7090
-reviews: 3037
+reviews: 3038
 website: https://koinbx.com/
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2021-10-04
 signer: 
-reviewArchive: 
 twitter: koinbazar
 social:
 - https://www.linkedin.com/company/koinbazar

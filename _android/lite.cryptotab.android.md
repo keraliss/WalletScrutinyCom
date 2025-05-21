@@ -12,7 +12,7 @@ updated: 2025-01-17
 version: 6.2.30
 stars: 4.1
 ratings: 22930
-reviews: 1815
+reviews: 1819
 website: https://cryptocompany.site/
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: nowallet
 appHashes: 
 date: 2021-08-21
 signer: 
-reviewArchive: 
 twitter: 
 social: 
 redirect_from: 

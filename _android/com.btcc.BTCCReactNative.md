@@ -12,7 +12,7 @@ updated: 2025-04-28
 version: 3.2.10
 stars: 4.4
 ratings: 
-reviews: 80
+reviews: 81
 website: 
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2023-08-23
 signer: 
-reviewArchive: 
 twitter: YourBTCC
 social:
 - https://www.linkedin.com/company/yourbtcc

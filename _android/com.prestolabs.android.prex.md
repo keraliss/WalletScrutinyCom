@@ -8,7 +8,7 @@ users: 500000
 appId: com.prestolabs.android.prex
 appCountry: 
 released: 2022-11-18
-updated: 2025-05-16
+updated: 2025-05-17
 version: 2.19.102
 stars: 3
 ratings: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2023-06-14
 signer: 
-reviewArchive: 
 twitter: AQXofficial
 social:
 - https://www.linkedin.com/company/aqx-official

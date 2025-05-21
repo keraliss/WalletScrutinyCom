@@ -12,7 +12,7 @@ updated: 2025-05-14
 version: 4.58.8
 stars: 4.3
 ratings: 2828
-reviews: 1271
+reviews: 1272
 website: https://bingx.com
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2021-04-21
 signer: 
-reviewArchive: 
 twitter: BingbonOfficial
 social:
 - https://www.linkedin.com/company/bingbon

@@ -12,7 +12,7 @@ updated: 2025-05-15
 version: 10.0.33
 stars: 3.5
 ratings: 
-reviews: 42
+reviews: 43
 website: https://www.coinw.com
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2023-07-07
 signer: 
-reviewArchive: 
 twitter: CoinWOfficial
 social:
 - https://t.me/CoinwExchangeEnglish

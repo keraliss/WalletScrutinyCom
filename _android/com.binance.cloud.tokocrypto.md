@@ -12,7 +12,7 @@ updated: 2025-04-14
 version: 2.18.0
 stars: 4.8
 ratings: 34617
-reviews: 48577
+reviews: 48722
 website: https://www.tokocrypto.com
 repository: 
 issue: 
@@ -23,7 +23,6 @@ verdict: custodial
 appHashes: 
 date: 2021-08-21
 signer: 
-reviewArchive: 
 twitter: tokocrypto
 social:
 - https://www.linkedin.com/company/toko

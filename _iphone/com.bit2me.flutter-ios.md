@@ -11,7 +11,7 @@ released: 2019-06-04
 updated: 2025-05-10
 version: 3.40.0
 stars: 4.5
-reviews: 3635
+reviews: 3634
 website: https://bit2me.com
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2024-12-31
 signer: 
-reviewArchive: 
 twitter: bit2me
 social:
 - https://www.linkedin.com/company/bit2me

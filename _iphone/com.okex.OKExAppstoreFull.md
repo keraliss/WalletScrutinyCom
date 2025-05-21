@@ -11,7 +11,7 @@ released: 2018-01-04
 updated: 2025-05-13
 version: 6.119.0
 stars: 4.6
-reviews: 17964
+reviews: 17982
 website: https://www.okx.com/download
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: custodial
 appHashes: 
 date: 2020-12-23
 signer: 
-reviewArchive: 
 twitter: OKEx
 social:
 - https://www.facebook.com/okexofficial

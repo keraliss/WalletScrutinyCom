@@ -11,7 +11,7 @@ released: 2022-02-09
 updated: 2025-04-24
 version: 2.8.1
 stars: 4.9
-reviews: 7358
+reviews: 7381
 website: https://bitybank.com.br/
 repository: 
 issue: 
@@ -22,7 +22,6 @@ verdict: nosendreceive
 appHashes: 
 date: 2023-03-02
 signer: 
-reviewArchive: 
 twitter: BityOficial
 social:
 - https://www.facebook.com/bitybankoficial
